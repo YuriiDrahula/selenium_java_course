@@ -1,0 +1,4 @@
+[INFO ] 2022-12-12 22:49:20.243 [main] Story07LoggingLevels - I'm showing some info
+[WARN ] 2022-12-12 22:49:20.245 [main] Story07LoggingLevels - i'm showing you a warning
+[ERROR] 2022-12-12 22:49:20.245 [main] Story07LoggingLevels - I'm showing you an error
+[FATAL] 2022-12-12 22:49:20.245 [main] Story07LoggingLevels - Something fatal here! Be careful!

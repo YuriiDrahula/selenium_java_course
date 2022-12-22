@@ -1,0 +1,6 @@
+[INFO ] 2022-12-12 23:05:48.545 [main] ManagerSeleniumEasy - Logging started
+[INFO ] 2022-12-12 23:05:48.548 [main] ManagerSeleniumEasy - Loading global variables
+[INFO ] 2022-12-12 23:05:48.548 [main] ManagerSeleniumEasy - Global variables loaded
+[INFO ] 2022-12-12 23:05:48.586 [main] ManagerSeleniumEasy - Initializing Web Driver
+[INFO ] 2022-12-12 23:05:50.708 [main] ManagerSeleniumEasy - Chrome driver initialized
+[INFO ] 2022-12-12 23:05:54.999 [main] ManagerSeleniumEasy - https://demo.seleniumeasy.com/ has been opened

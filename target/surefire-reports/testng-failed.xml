@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium Easy Automated Tests]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="regression test - ui(failed)" verbose="0">
+    <classes>
+      <class name="com.automatiom.gtfcourse.framework.seleniumeasy.tests.inputformsubmitpage.Story04TestInputFormSubmitPage">
+        <methods>
+          <include name="prepareTests"/>
+          <include name="tc01_testInputFormSubmitPageWithSoftAsserts"/>
+          <include name="terminateDriver"/>
+          <include name="loadInGlobalVariables"/>
+        </methods>
+      </class> <!-- com.automatiom.gtfcourse.framework.seleniumeasy.tests.inputformsubmitpage.Story04TestInputFormSubmitPage -->
+      <class name="com.automatiom.gtfcourse.framework.seleniumeasy.tests.homepage.Story03TestAdvancedExampleButtons">
+        <methods>
+          <include name="prepareTests"/>
+          <include name="tc01_chartsDemoButtonToCorrectURL"/>
+          <include name="terminateDriver"/>
+          <include name="loadInGlobalVariables"/>
+        </methods>
+      </class> <!-- com.automatiom.gtfcourse.framework.seleniumeasy.tests.homepage.Story03TestAdvancedExampleButtons -->
+    </classes>
+  </test> <!-- regression test - ui(failed) -->
+</suite> <!-- Failed suite [Selenium Easy Automated Tests] -->

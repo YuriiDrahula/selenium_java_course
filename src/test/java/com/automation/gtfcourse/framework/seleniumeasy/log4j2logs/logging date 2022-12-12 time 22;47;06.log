@@ -1,0 +1,6 @@
+[TRACE] 2022-12-12 22:47:12.568 [main] Story07LoggingLevels - I'm tracing at the moment
+[DEBUG] 2022-12-12 22:47:12.568 [main] Story07LoggingLevels - I'm debugging at the moment
+[INFO ] 2022-12-12 22:47:12.569 [main] Story07LoggingLevels - I'm showing some info
+[WARN ] 2022-12-12 22:47:12.569 [main] Story07LoggingLevels - i'm showing you a warning
+[ERROR] 2022-12-12 22:47:12.569 [main] Story07LoggingLevels - I'm showing you an error
+[FATAL] 2022-12-12 22:47:12.569 [main] Story07LoggingLevels - Something fatal here! Be careful!

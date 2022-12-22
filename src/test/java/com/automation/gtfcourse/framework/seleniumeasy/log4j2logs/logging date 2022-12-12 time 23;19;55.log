@@ -1,0 +1,11 @@
+[INFO ] 2022-12-12 23:19:55.443 [main] ManagerSeleniumEasy - Logging started
+[INFO ] 2022-12-12 23:19:55.446 [main] ManagerSeleniumEasy - Loading global variables
+[INFO ] 2022-12-12 23:19:55.447 [main] ManagerSeleniumEasy - Global variables loaded
+[INFO ] 2022-12-12 23:19:55.482 [main] ManagerSeleniumEasy - Initializing Web Driver
+[INFO ] 2022-12-12 23:19:57.721 [main] ManagerSeleniumEasy - Chrome driver initialized
+[INFO ] 2022-12-12 23:20:01.441 [main] ManagerSeleniumEasy - https://demo.seleniumeasy.com/ has been opened
+[DEBUG] 2022-12-12 23:20:01.478 [main] Story01TestBasicExampleButtons - Entered tc01_simpleFormDemoButtonToCorrectURL
+[DEBUG] 2022-12-12 23:20:01.478 [main] HomePage - Entered method clickBasicButton
+[DEBUG] 2022-12-12 23:20:01.564 [main] HomePage - Clicked Basic Button
+[DEBUG] 2022-12-12 23:20:01.565 [main] HomePage - Entered method clickSimpleFormDemoButtonBody
+[DEBUG] 2022-12-12 23:20:02.453 [main] HomePage - Clicked Simple Form Demo Button

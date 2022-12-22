@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Selenium Easy Automated Tests" verbose="1" >
+    <test name="regression test - ui" >
+        <classes>
+            <class name="com.automation.gtfcourse.framework.seleniumeasy.tests.homepage.Story01TestBasicExampleButtons">
+                <methods>
+                    <include name="tc02_checkBoxDemoButtonToCorrectURL"/>
+                </methods>
+            </class>
+            <class name="com.automation.gtfcourse.framework.seleniumeasy.tests.homepage.Story03TestAdvancedExampleButtons" />
+            <class name="com.automation.gtfcourse.framework.seleniumeasy.tests.inputformsubmitpage.Story04TestInputFormSubmitPage" />
+        </classes>
+    </test>
+
+</suite>
